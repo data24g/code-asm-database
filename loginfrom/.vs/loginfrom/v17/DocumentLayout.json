@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\data2\\Documents\\tryingcode\\database\\loginfrom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{987F9509-8899-45C1-9E0D-86F5324494BD}|loginfrom\\loginfrom.csproj|c:\\users\\data2\\documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987F9509-8899-45C1-9E0D-86F5324494BD}|loginfrom\\loginfrom.csproj|solutionrelative:loginfrom\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987F9509-8899-45C1-9E0D-86F5324494BD}|loginfrom\\loginfrom.csproj|c:\\users\\data2\\documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{987F9509-8899-45C1-9E0D-86F5324494BD}|loginfrom\\loginfrom.csproj|solutionrelative:loginfrom\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{987F9509-8899-45C1-9E0D-86F5324494BD}|loginfrom\\loginfrom.csproj|c:\\users\\data2\\documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{987F9509-8899-45C1-9E0D-86F5324494BD}|loginfrom\\loginfrom.csproj|solutionrelative:loginfrom\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\data2\\Documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.Designer.cs",
+              "RelativeDocumentMoniker": "loginfrom\\login.Designer.cs",
+              "ToolTip": "C:\\Users\\data2\\Documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.Designer.cs",
+              "RelativeToolTip": "loginfrom\\login.Designer.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAewD0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:29:23.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\data2\\Documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.cs",
+              "RelativeDocumentMoniker": "loginfrom\\login.cs",
+              "ToolTip": "C:\\Users\\data2\\Documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.cs",
+              "RelativeToolTip": "loginfrom\\login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:20:50.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\data2\\Documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.cs",
+              "RelativeDocumentMoniker": "loginfrom\\login.cs",
+              "ToolTip": "C:\\Users\\data2\\Documents\\tryingcode\\database\\loginfrom\\loginfrom\\login.cs [Design]",
+              "RelativeToolTip": "loginfrom\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T15:18:37.369Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
