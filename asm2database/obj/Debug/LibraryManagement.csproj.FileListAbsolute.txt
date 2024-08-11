@@ -1,0 +1,47 @@
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\bin\Debug\LibraryManagement.exe
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\bin\Debug\LibraryManagement.pdb
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.AdminDashboard.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.exe
+C:\Users\Admin\Downloads\New stuff\C# Shit\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\bin\Debug\LibraryManagement.exe.config
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\bin\Debug\LibraryManagement.exe
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\bin\Debug\LibraryManagement.pdb
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.AdminDashboard.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.BorrowerDashboard.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.Login.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.exe
+C:\Users\Admin\Downloads\New stuff\C# Shit\nogas_help-main\nogas_help-main\obj\Debug\LibraryManagement.pdb
+D:\Code\C#\C#\nogas_help-main\bin\Debug\LibraryManagement.exe.config
+D:\Code\C#\C#\nogas_help-main\bin\Debug\LibraryManagement.exe
+D:\Code\C#\C#\nogas_help-main\bin\Debug\LibraryManagement.pdb
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.AdminDashboard.resources
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.BorrowerDashboard.resources
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.Login.resources
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.Properties.Resources.resources
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.exe
+D:\Code\C#\C#\nogas_help-main\obj\Debug\LibraryManagement.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\bin\Debug\LibraryManagement.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\bin\Debug\LibraryManagement.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\bin\Debug\LibraryManagement.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.AdminDashboard.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.BorrowerDashboard.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.Login.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\nogas_help-main (1)\obj\Debug\LibraryManagement.pdb
